@@ -6,6 +6,8 @@ A random collection of cloud facts. All rights go to their respective owners.
 
 ### How to use:
 
+`npm i --save cloud-facts`
+
 ```
 const fact = require('cloud-facts');
 
