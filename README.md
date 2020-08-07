@@ -6,7 +6,9 @@ A random collection of cloud facts. All rights go to their respective owners.
 
 ### How to use:
 
-`npm i --save cloud-facts`
+
+`npm i cloud-facts`
+
 
 ```
 const fact = require('cloud-facts');
@@ -18,3 +20,10 @@ fact();
 fact(1);
 
 ```
+
+
+### To do
+- [x] Basic framework of package
+- [ ] take out console.log()
+- [ ] make a class instead of function?
+- [ ] include images
